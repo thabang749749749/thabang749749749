@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://img.shields.io/badge/--copper?style=for-the-badge&logo=steam&logoColor=bronze" alt="Steampunk Badge">
+  <img src="(https://raw.githubusercontent.com/thabang749749749/thabang749749749/main/Assets/Steam-badge.png)" alt="Steampunk Badge">
   <br>
   ⚙️ Welcome to the Workshop of <span style="color:#b87333;">Thabang</span> ⚙️
 </h1>
