@@ -1,6 +1,6 @@
 <!-- STEAMPUNK THEME START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thabang749749749/thabang749749749/main/assetsSsteampunk.png" alt="Steampunk Banner" style="width:100%; border-radius:10px;">
+  <img src="https://raw.githubusercontent.com/thabang749749749/thabang749749749/main/Assets/Steampunk.png" alt="Steampunk Banner" style="width:50%; border-radius:10px;">
 </p>
 
 <h1 align="center">
