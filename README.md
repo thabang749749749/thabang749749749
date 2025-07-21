@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="(https://raw.githubusercontent.com/thabang749749749/thabang749749749/main/Assets/steam-badge.png)" alt="Steampunk Badge"  style="width:20%; height:20%; >
+ 
   <br>
 <h1>
   ⚙️ Welcome to the Workshop of <span style="color:#b87333;">Thabang</span> ⚙️
