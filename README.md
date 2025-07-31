@@ -42,7 +42,7 @@
 
 ## 🧭 Navigation
 
-- [🚂 My Workshop (Portfolio)](https://your-portfolio-link.com)
+- [🚂 My Workshop (Portfolio)](https://thabangxaba.vercel.app)
 - [📜 My Scrolls (Blog)](https://your-blog-link.com)
 - [🛠️ Schematics (Projects)](https://github.com/thabang749749749?tab=repositories)
 
@@ -51,7 +51,7 @@
 ## 💬 Contact
 
 - 📨 [Send a Telegraphed Message](mailto:your-email@example.com)
-- 🦾 [LinkedIn](https://linkedin.com/in/your-link)
+- 🦾 [LinkedIn](https://linkedin.com/in/thabang-xaba-176188327)
 - 🛠️ [Twitter](https://twitter.com/your-handle)
 
 ---
