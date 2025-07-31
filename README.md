@@ -43,21 +43,13 @@
 ## 🧭 Navigation
 
 - [🚂 My Workshop (Portfolio)](https://thabangxaba.vercel.app)
-- [📜 My Scrolls (Blog)](https://your-blog-link.com)
 - [🛠️ Schematics (Projects)](https://github.com/thabang749749749?tab=repositories)
-
----
-
-## 💬 Contact
-
-- 📨 [Send a Telegraphed Message](mailto:your-email@example.com)
 - 🦾 [LinkedIn](https://linkedin.com/in/thabang-xaba-176188327)
-- 🛠️ [Twitter](https://twitter.com/your-handle)
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thabang749749749/thabang749749749/main/assets/steampunk-footer.png" alt="Steampunk Footer" style="width:80%; border-radius:10px;">
+  <img src="https://raw.githubusercontent.com/thabang749749749/thabang749749749/main/Assets/steambadge.png" alt="Steampunk Footer" style="width:450px; height:120px; border-radius:10px;">
 </p>
 
 <!-- STEAMPUNK THEME END -->
